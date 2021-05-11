@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+
+    font-family: 'Poppins', sans-serif;
+    
+}
+.fa-phone-volume{
+    font-size: 38px;
+    padding: 1rem;
+    color:blue;
+}
+.fa-map-marker-alt{
+    font-size: 38px;
+    padding: 1rem;
+    color:blue;
+}
+  .col2{
+      text-align: right;
+      flex: 1 0 0%;
+  }
+  .top-bar span{
+font-size: 12px;
+padding: 1px 5px;
+padding-bottom: 5px;
+  }
+  .top-bar{
+    padding-bottom: 5px;
+
+  }
+  
