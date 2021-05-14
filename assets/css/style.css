@@ -1252,7 +1252,7 @@ service section style
     width:100%;
     overflow: hidden;
 }
-.service_item i.icofont,
+.service_item i.bi,
 .service_item i.fa,
 .service_item span.icon{
     font-size:3rem;
